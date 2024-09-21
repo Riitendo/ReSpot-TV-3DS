@@ -27,7 +27,9 @@ Also note : Only one language can be applied at a time.
 - Plug the 3DS/2DS SD card into a computer,
 - Go to "SD:\luma\titles\0004000000034700\romfs\message\JP"
 - Drag and drop the "JapanOnly.msbt" file into the path written above,
-- Insert your SD card back into your console, power it on, launch SpotPass TV and enjoy !
+- Insert your SD card back into your console and power it on.
+- Launch SpotPass TV and deny any SpotPass related feature (as of 2024/09/21 until fixed)
+- Enjoy !
 
 
 
@@ -37,6 +39,13 @@ Also note : Only one language can be applied at a time.
 - If any of the folders mentionned after titles doesn't exist, create them.
 - If any of the problems mentionned above are not relevant to what's happening on your end, please join our Discord server and make a ticket for support !
 
+
+
+**Known issues :**
+
+- Italian patch has text clipping in text boxes
+- Connection test is causing soft-locks
+- SpotPass TV locking itself down when content
 
 ### Credits :
 
