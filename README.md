@@ -45,7 +45,7 @@ Also note : Only one language can be applied at a time.
 
 - Italian patch has text clipping in text boxes
 - Connection test is causing soft-locks
-- SpotPass TV locking itself down when content
+- SpotPass TV locking itself down when content receiving is set on Yes
 
 ### Credits :
 
