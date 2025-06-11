@@ -5,7 +5,7 @@ This project has the goal of being at least a working template to import custom 
 Patches are available in French, English, Spanish, Italian and German.
 
 Join our Discord to stay updated about futures updates, releases and new projects, but also ask for help when needed!
-https://discord.gg/invite/4DyNPa4sXK
+[https://discord.gg/invite/4DyNPa4sXK](https://discord.gg/w6Qjrhhacr)
 
 ## Installation Guide
 
